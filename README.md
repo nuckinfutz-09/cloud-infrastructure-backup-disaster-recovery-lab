@@ -196,3 +196,20 @@ Additional evidence and documentation will be added as the lab is consolidated.
 
 **Disclaimer:** This is a personal learning and simulation project. It is not a production cloud environment or an implementation of a commercial BaaS or DRaaS platform.
 
+## Project Screenshots
+
+### 1. AWS EC2 Recovery
+![AWS EC2 Recovery](screenshots/01-aws-ec2-recovered-instance.png)
+
+### 2. AWS EBS Backup Snapshot
+![EBS Snapshot](screenshots/02-aws-ebs-snapshot.png)
+
+### 3. AWS AMI
+![AWS AMI](screenshots/03-aws-ami-available.png)
+
+### 4. Nginx Web Server from Mac
+![Nginx Browser](screenshots/04-nginx-from-mac-browser.png)
+
+### 5. VMware Ubuntu
+![VMware Ubuntu](screenshots/05-vmware-ubuntu-nginx-running.png)
+
